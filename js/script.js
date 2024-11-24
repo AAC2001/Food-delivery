@@ -6,6 +6,7 @@ const currentYear = new Date().getFullYear();
 
 yearEl.textContent = currentYear;
 
+
 /////////////////////////////////////////////////
 // Make mobile navigation work
 
